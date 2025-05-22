@@ -33,7 +33,7 @@ const [previewUrl, setPreviewUrl] = useState<string | null>(null);
       </div>
         <div className='flex flex-col space-y-2 justify-center items-center'>
             <div className='flex items-center space-x-2'>
-            <img src='/src//assets/images/icons/image.png' />
+            <img src='/images/icons/image.png' />
             <span className='text-xs text-[#1677FF]'>{file ? file.name : 'Upload Profile Image'}</span>
             </div>
             <span className='text-xs'>PNG Or JPEG (Max File Size : 2MB)</span>
