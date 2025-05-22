@@ -7,31 +7,31 @@ export const Menus = [
                 type : 'menu-link',
                 name : 'Setup Guides',
                 to : '/',
-                icon : '/src/assets/images/icons/RocketFilled.png'
+                icon : './../../assets/images/icons/RocketFilled.png'
             },
              {   
                 type : 'menu-link',
                 name : 'Dashboard',
                 to : '/dashboard',
-                icon : '/src/assets/images/icons/AppstoreFilled.png'
+                icon : './../../assets/images/icons/AppstoreFilled.png'
             },
             {   
                 type : 'menu-link',
                 name : 'Orders',
                 to : '/orders',
-                icon : '/src/assets/images/icons/ShoppingFilled.png'
+                icon : './../../assets/images/icons/ShoppingFilled.png'
             },
              {   
                 type : 'menu-link',
                 name : 'Menu',
                 to : '/menu',
-                icon : '/src/assets/images/icons/ProfileFilled.png'
+                icon : './../../assets/images/icons/ProfileFilled.png'
             },
              {   
                 type : 'menu-link',
                 name : 'Invoices',
                 to : '/invoices',
-                icon : '/src/assets/images/icons/FileFilled.png'
+                icon : './../../assets/images/icons/FileFilled.png'
             },
         ]
     },
@@ -45,25 +45,25 @@ export const Menus = [
                 type : 'menu-link',
                 name : 'Team Members',
                 to : '/team-members',
-                icon : '/src/assets/images/icons/IdcardFilled.png'
+                icon : './../../assets/images/icons/IdcardFilled.png'
             },
              {   
                 type : 'menu-link',
                 name : 'Payments',
                 to : '/payments',
-                icon : '/src/assets/images/icons/CreditCardFilled.png'
+                icon : './../../assets/images/icons/CreditCardFilled.png'
             },
             {   
                 type : 'menu-link',
                 name : 'Report And Analysis',
                 to : '/report-analysis',
-                icon : '/src/assets/images/icons/AreaChartOutlined.png'
+                icon : './../../assets/images/icons/AreaChartOutlined.png'
             },
              {   
                 type : 'menu-link',
                 name : 'Settings',
                 to : '/settings',
-                icon : '/src/assets/images/icons/SettingFilled.png'
+                icon : './../../assets/images/icons/SettingFilled.png'
             },
            
         ]
