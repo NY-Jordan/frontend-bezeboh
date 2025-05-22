@@ -1,5 +1,5 @@
 import React from 'react'
-import { Menus } from '../../../infrastructure/data/menu'
+import { Menus } from '../../../assets/data/menu'
 import MenuItem from './MenuItem'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEllipsis } from '@fortawesome/free-solid-svg-icons'
