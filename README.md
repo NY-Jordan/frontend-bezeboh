@@ -29,7 +29,7 @@
    npm run dev 
 
 ## 🔧 Technologies Used
-   ---
+
    Framework: Vite-React
    
    State Management: Redux
