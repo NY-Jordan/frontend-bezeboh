@@ -14,9 +14,8 @@
 
    ```bash
    git clone https://github.com/NY-Jordan/frontend-bezeboh/
-   cd frontend-bezeboh
    
-   npm run dev
+   cd frontend-bezeboh
    
 2. **Install dependencies**
 
