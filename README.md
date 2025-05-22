@@ -13,7 +13,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/yourusername/kanri.git](https://github.com/NY-Jordan/frontend-bezeboh/)
+   git clone https://github.com/NY-Jordan/frontend-bezeboh/
    cd frontend-bezeboh
    
    npm run dev
@@ -27,3 +27,11 @@
 
    ```bash
    npm run dev 
+
+## 🔧 Technologies Used
+   ---
+   Framework: Vite-React
+   
+   State Management: Redux
+   
+   Styling: Tailwind CSS
