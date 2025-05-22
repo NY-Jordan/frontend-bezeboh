@@ -13,7 +13,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/NY-Jordan/sbremit-frontend-web/
+   git clone https://github.com/NY-Jordan/sbremit-frontend-web.git
    
    cd frontend-bezeboh
    
