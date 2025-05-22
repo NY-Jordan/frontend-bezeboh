@@ -6,7 +6,7 @@ export  const MEMBERS_PER_PAGE = 6;
 
 export const fetchMembers = async (page: number) => {
   try {
-    const response = await fetch('/src/assets/data/members.json');
+    const response = await fetch('/data/members.json');
     const allMembers: IMember[] = await response.json();
 
     const total = allMembers.length;

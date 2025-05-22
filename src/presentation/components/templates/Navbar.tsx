@@ -10,7 +10,7 @@ export default function Navbar() {
     <div className='bg-spec-primary inset-shadow-custom w-full h-full pt-6  px-8 '>
         <div className='mb-6'>
           <a >
-            <img src='/src/assets/images/icons/Vector.png' />
+            <img src='/images/icons/Vector.png' />
           </a>
         </div>
         <div className='ml-3'>

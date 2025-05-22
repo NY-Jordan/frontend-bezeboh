@@ -1,6 +1,6 @@
 [
   {
-    "image": "/src/assets/images/Rectangle3.png",
+    "image": "/images/Rectangle3.png",
     "name": "Mubarak Adeyemi",
     "email": "mubarakadeyemi16@gmail.com",
     "phone": "080123456789",
@@ -9,7 +9,7 @@
     "createdAt": "Aug 4, 2022 3:05..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (1).png",
+    "image": "/images/Rectangle 3 (1).png",
     "name": "Mike Okafor",
     "email": "okafor001@gmail.com",
     "phone": "080123456789",
@@ -18,7 +18,7 @@
     "createdAt": "Aug 4, 2022 3:05..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (3).png",
+    "image": "/images/Rectangle 3 (3).png",
     "name": "Josh Maduake",
     "email": "joshmaduake@gmail.com",
     "phone": "080123456789",
@@ -27,7 +27,7 @@
     "createdAt": "Aug 4, 2022 3:05..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (4).png",
+    "image": "/images/Rectangle 3 (4).png",
     "name": "Idris Abdullah",
     "email": "idrisabdul667@gmail.com",
     "phone": "080123456789",
@@ -36,7 +36,7 @@
     "createdAt": "Aug 4, 2022 3:05..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (5).png",
+    "image": "/images/Rectangle 3 (5).png",
     "name": "Ibrahim Olumide",
     "email": "olumide558@gmail.com",
     "phone": "080123456789",
@@ -45,7 +45,7 @@
     "createdAt": "Aug 4, 2022 3:05..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (6).png",
+    "image": "/images/Rectangle 3 (6).png",
     "name": "Desmond Ndebele",
     "email": "desmondndebele@gmail.com",
     "phone": "080123456789",
@@ -54,7 +54,7 @@
     "createdAt": "Aug 4, 2022 3:05..."
   },
   {
-    "image": "/src/assets/images/Rectangle3.png",
+    "image": "/images/Rectangle3.png",
     "name": "Lilian Ogbonna",
     "email": "liliano@example.com",
     "phone": "080123456789",
@@ -63,7 +63,7 @@
     "createdAt": "Sep 5, 2022 9:15..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (1).png",
+    "image": "/images/Rectangle 3 (1).png",
     "name": "Chuka Nnamdi",
     "email": "chukan@example.com",
     "phone": "080123456789",
@@ -72,7 +72,7 @@
     "createdAt": "Sep 6, 2022 11:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (3).png",
+    "image": "/images/Rectangle 3 (3).png",
     "name": "Adaobi Eze",
     "email": "adaeze@gmail.com",
     "phone": "080123456789",
@@ -81,7 +81,7 @@
     "createdAt": "Sep 7, 2022 14:30..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (4).png",
+    "image": "/images/Rectangle 3 (4).png",
     "name": "Peter Obi",
     "email": "peterobi@gmail.com",
     "phone": "080123456789",
@@ -90,7 +90,7 @@
     "createdAt": "Sep 8, 2022 16:10..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (5).png",
+    "image": "/images/Rectangle 3 (5).png",
     "name": "Grace Akpan",
     "email": "graceakpan@gmail.com",
     "phone": "080123456789",
@@ -99,7 +99,7 @@
     "createdAt": "Sep 9, 2022 13:45..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (6).png",
+    "image": "/images/Rectangle 3 (6).png",
     "name": "Samuel Etim",
     "email": "sametim@gmail.com",
     "phone": "080123456789",
@@ -108,7 +108,7 @@
     "createdAt": "Sep 10, 2022 10:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle3.png",
+    "image": "/images/Rectangle3.png",
     "name": "Nkechi Okoro",
     "email": "nkechiokoro@example.com",
     "phone": "080123456789",
@@ -117,7 +117,7 @@
     "createdAt": "Sep 11, 2022 09:25..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (1).png",
+    "image": "/images/Rectangle 3 (1).png",
     "name": "Tunde Balogun",
     "email": "tundebalogun@example.com",
     "phone": "080123456789",
@@ -126,7 +126,7 @@
     "createdAt": "Sep 12, 2022 17:35..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (3).png",
+    "image": "/images/Rectangle 3 (3).png",
     "name": "Ngozi Nwachukwu",
     "email": "nwachukwu.ngozi@gmail.com",
     "phone": "080123456789",
@@ -135,7 +135,7 @@
     "createdAt": "Sep 13, 2022 08:45..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (4).png",
+    "image": "/images/Rectangle 3 (4).png",
     "name": "Bashiru Lawal",
     "email": "bashlawal@example.com",
     "phone": "080123456789",
@@ -144,7 +144,7 @@
     "createdAt": "Sep 14, 2022 12:10..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (5).png",
+    "image": "/images/Rectangle 3 (5).png",
     "name": "Amina Bello",
     "email": "aminabello@example.com",
     "phone": "080123456789",
@@ -153,7 +153,7 @@
     "createdAt": "Sep 15, 2022 11:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (6).png",
+    "image": "/images/Rectangle 3 (6).png",
     "name": "Femi George",
     "email": "femigeorge@gmail.com",
     "phone": "080123456789",
@@ -162,7 +162,7 @@
     "createdAt": "Sep 16, 2022 14:45..."
   },
   {
-    "image": "/src/assets/images/Rectangle3.png",
+    "image": "/images/Rectangle3.png",
     "name": "Yetunde Alabi",
     "email": "yalabi@gmail.com",
     "phone": "080123456789",
@@ -171,7 +171,7 @@
     "createdAt": "Sep 17, 2022 15:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (1).png",
+    "image": "/images/Rectangle 3 (1).png",
     "name": "Dapo Okonkwo",
     "email": "dapookonkwo@example.com",
     "phone": "080123456789",
@@ -180,7 +180,7 @@
     "createdAt": "Sep 18, 2022 13:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (3).png",
+    "image": "/images/Rectangle 3 (3).png",
     "name": "Mariam Yusuf",
     "email": "mariamyusuf@gmail.com",
     "phone": "080123456789",
@@ -189,7 +189,7 @@
     "createdAt": "Sep 19, 2022 18:30..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (4).png",
+    "image": "/images/Rectangle 3 (4).png",
     "name": "Kelechi Emeto",
     "email": "kelechiemeto@gmail.com",
     "phone": "080123456789",
@@ -198,7 +198,7 @@
     "createdAt": "Sep 20, 2022 10:20..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (5).png",
+    "image": "/images/Rectangle 3 (5).png",
     "name": "Chiamaka Eze",
     "email": "chiamakaeze@example.com",
     "phone": "080123456789",
@@ -207,7 +207,7 @@
     "createdAt": "Sep 21, 2022 12:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (6).png",
+    "image": "/images/Rectangle 3 (6).png",
     "name": "Tosin Ogunleye",
     "email": "tosino@example.com",
     "phone": "080123456789",
@@ -216,7 +216,7 @@
     "createdAt": "Sep 22, 2022 16:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle3.png",
+    "image": "/images/Rectangle3.png",
     "name": "Emeka Okoro",
     "email": "emekaokoro@example.com",
     "phone": "080123456789",
@@ -225,7 +225,7 @@
     "createdAt": "Sep 23, 2022 13:40..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (1).png",
+    "image": "/images/Rectangle 3 (1).png",
     "name": "Fatima Sule",
     "email": "fatimasule@example.com",
     "phone": "080123456789",
@@ -234,7 +234,7 @@
     "createdAt": "Sep 24, 2022 10:10..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (3).png",
+    "image": "/images/Rectangle 3 (3).png",
     "name": "Henry Chukwuma",
     "email": "henrychuks@example.com",
     "phone": "080123456789",
@@ -243,7 +243,7 @@
     "createdAt": "Sep 25, 2022 09:00..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (4).png",
+    "image": "/images/Rectangle 3 (4).png",
     "name": "Blessing Uzo",
     "email": "blessinguzo@example.com",
     "phone": "080123456789",
@@ -252,7 +252,7 @@
     "createdAt": "Sep 26, 2022 11:30..."
   },
   {
-    "image": "/src/assets/images/Rectangle 3 (5).png",
+    "image": "/images/Rectangle 3 (5).png",
     "name": "Victor Nnaji",
     "email": "victornnaji@example.com",
     "phone": "080123456789",
@@ -261,7 +261,7 @@
     "createdAt": "Sep 27, 2022 14:10..."
   },
    {
-    "image": "/src/assets/images/Rectangle 3 (5).png",
+    "image": "/images/Rectangle 3 (5).png",
     "name": "NGUETSE Yvan Jordan",
     "email": "victornnaji@example.com",
     "phone": "080123456789",
